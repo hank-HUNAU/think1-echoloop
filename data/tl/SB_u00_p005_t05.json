@@ -1,0 +1,232 @@
+{
+ "key": "SB_u00_p005_t05",
+ "unit": 0,
+ "no": 5,
+ "title": "W.05",
+ "titleZh": null,
+ "audio": "audio/SB_u00_p005_t05.mp3",
+ "duration": 111.65,
+ "question": null,
+ "sentences": [
+  {
+   "i": 0,
+   "t": 8.72,
+   "t2": 9.44,
+   "en": "Hello?",
+   "zh": null,
+   "meta": false,
+   "sp": "Fernando",
+   "src": "audioscript",
+   "conf": 1.0
+  },
+  {
+   "i": 1,
+   "t": 10.72,
+   "t2": 14.18,
+   "en": "Hi. Can I speak to Fernando, please?",
+   "zh": null,
+   "meta": false,
+   "sp": "Alejandra",
+   "src": "audioscript",
+   "conf": 1.0
+  },
+  {
+   "i": 2,
+   "t": 14.74,
+   "t2": 16.38,
+   "en": "Speaking. Who’s that?",
+   "zh": null,
+   "meta": false,
+   "sp": "Fernando",
+   "src": "audioscript",
+   "conf": 1.0
+  },
+  {
+   "i": 3,
+   "t": 16.82,
+   "t2": 24.42,
+   "en": "Hi, Fernando. It’s Alejandra. I’m a friend of Anna’s. We met last Friday, remember?",
+   "zh": null,
+   "meta": false,
+   "sp": "Alejandra",
+   "src": "audioscript",
+   "conf": 1.0
+  },
+  {
+   "i": 4,
+   "t": 25.18,
+   "t2": 28.12,
+   "en": "Oh, yes, sure. How are things with you?",
+   "zh": null,
+   "meta": false,
+   "sp": "Fernando",
+   "src": "audioscript",
+   "conf": 1.0
+  },
+  {
+   "i": 5,
+   "t": 28.12,
+   "t2": 30.4,
+   "en": "Great, thanks. And you?",
+   "zh": null,
+   "meta": false,
+   "sp": "Alejandra",
+   "src": "audioscript",
+   "conf": 1.0
+  },
+  {
+   "i": 6,
+   "t": 30.76,
+   "t2": 31.869,
+   "en": "Yeah, not bad.",
+   "zh": null,
+   "meta": false,
+   "sp": "Fernando",
+   "src": "audioscript",
+   "conf": 1.0
+  },
+  {
+   "i": 7,
+   "t": 32.3,
+   "t2": 40.368,
+   "en": "Fernando, I’m phoning because we’re having a party next Saturday. And perhaps you’d like to come?",
+   "zh": null,
+   "meta": false,
+   "sp": "Alejandra",
+   "src": "audioscript",
+   "conf": 1.0
+  },
+  {
+   "i": 8,
+   "t": 40.66,
+   "t2": 45.78,
+   "en": "Sure, great. Next Saturday – 14th of July, right?",
+   "zh": null,
+   "meta": false,
+   "sp": "Fernando",
+   "src": "audioscript",
+   "conf": 1.0
+  },
+  {
+   "i": 9,
+   "t": 46.26,
+   "t2": 48.98,
+   "en": "Yes. It starts at 7 o’clock.",
+   "zh": null,
+   "meta": false,
+   "sp": "Alejandra",
+   "src": "audioscript",
+   "conf": 1.0
+  },
+  {
+   "i": 10,
+   "t": 49.7,
+   "t2": 52.08,
+   "en": "Cool. Can you give me the address?",
+   "zh": null,
+   "meta": false,
+   "sp": "Fernando",
+   "src": "audioscript",
+   "conf": 1.0
+  },
+  {
+   "i": 11,
+   "t": 52.62,
+   "t2": 58.48,
+   "en": "Sure. It’s 134 Markham Avenue.",
+   "zh": null,
+   "meta": false,
+   "sp": "Alejandra",
+   "src": "audioscript",
+   "conf": 1.0
+  },
+  {
+   "i": 12,
+   "t": 59.08,
+   "t2": 65.42,
+   "en": "Markham. That’s M-A-R-K-A-M, right?",
+   "zh": null,
+   "meta": false,
+   "sp": "Fernando",
+   "src": "audioscript",
+   "conf": 1.0
+  },
+  {
+   "i": 13,
+   "t": 66.14,
+   "t2": 73.22,
+   "en": "Well, no, actually it’s M-A-R-K-H-A-M.",
+   "zh": null,
+   "meta": false,
+   "sp": "Alejandra",
+   "src": "audioscript",
+   "conf": 1.0
+  },
+  {
+   "i": 14,
+   "t": 76.18,
+   "t2": 82.64,
+   "en": "Oh, sure, of course. OK, Alejandra, so … see you on Friday.",
+   "zh": null,
+   "meta": false,
+   "sp": "Fernando",
+   "src": "audioscript",
+   "conf": 1.0
+  },
+  {
+   "i": 15,
+   "t": 83.1,
+   "t2": 83.6,
+   "en": "Saturday.",
+   "zh": null,
+   "meta": false,
+   "sp": "Alejandra",
+   "src": "audioscript",
+   "conf": 1.0
+  },
+  {
+   "i": 16,
+   "t": 84.3,
+   "t2": 101.343,
+   "en": "Oh, yeah, duh! Let me just check your phone number – last call on my mobile, here it is: 0789 224 214?",
+   "zh": null,
+   "meta": false,
+   "sp": "Fernando",
+   "src": "audioscript",
+   "conf": 1.0
+  },
+  {
+   "i": 17,
+   "t": 101.343,
+   "t2": 103.96,
+   "en": "That’s it. See you, Juan.",
+   "zh": null,
+   "meta": false,
+   "sp": "Alejandra",
+   "src": "audioscript",
+   "conf": 1.0
+  },
+  {
+   "i": 18,
+   "t": 104.46,
+   "t2": 105.58,
+   "en": "Um – Fernando.",
+   "zh": null,
+   "meta": false,
+   "sp": "Fernando",
+   "src": "audioscript",
+   "conf": 1.0
+  },
+  {
+   "i": 19,
+   "t": 106.18,
+   "t2": 108.26,
+   "en": "Oops. Sorry! Bye.",
+   "zh": null,
+   "meta": false,
+   "sp": "Alejandra",
+   "src": "audioscript",
+   "conf": 1.0
+  }
+ ]
+}

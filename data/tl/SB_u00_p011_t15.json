@@ -1,0 +1,210 @@
+{
+ "key": "SB_u00_p011_t15",
+ "unit": 0,
+ "no": 15,
+ "title": "W.15",
+ "titleZh": null,
+ "audio": "audio/SB_u00_p011_t15.mp3",
+ "duration": 64.76,
+ "question": null,
+ "sentences": [
+  {
+   "i": 0,
+   "t": 6.2,
+   "t2": 9.8,
+   "en": "Hi, Oscar, what would you like for lunch today?",
+   "zh": null,
+   "meta": false,
+   "sp": "Mrs Magnus",
+   "src": "audioscript",
+   "conf": 1.0
+  },
+  {
+   "i": 1,
+   "t": 10.4,
+   "t2": 12.08,
+   "en": "I’d like a lunch box, please.",
+   "zh": null,
+   "meta": false,
+   "sp": "Oscar",
+   "src": "audioscript",
+   "conf": 1.0
+  },
+  {
+   "i": 2,
+   "t": 12.7,
+   "t2": 17.14,
+   "en": "OK. Would you like a chicken sandwich or a cheese sandwich?",
+   "zh": null,
+   "meta": false,
+   "sp": "Mrs Magnus",
+   "src": "audioscript",
+   "conf": 1.0
+  },
+  {
+   "i": 3,
+   "t": 17.82,
+   "t2": 19.26,
+   "en": "A chicken sandwich, please.",
+   "zh": null,
+   "meta": false,
+   "sp": "Oscar",
+   "src": "audioscript",
+   "conf": 1.0
+  },
+  {
+   "i": 4,
+   "t": 20.28,
+   "t2": 21.96,
+   "en": "What dessert would you like?",
+   "zh": null,
+   "meta": false,
+   "sp": "Mrs Magnus",
+   "src": "audioscript",
+   "conf": 1.0
+  },
+  {
+   "i": 5,
+   "t": 23.14,
+   "t2": 24.82,
+   "en": "Umm, a biscuit, please.",
+   "zh": null,
+   "meta": false,
+   "sp": "Oscar",
+   "src": "audioscript",
+   "conf": 1.0
+  },
+  {
+   "i": 6,
+   "t": 25.58,
+   "t2": 29.92,
+   "en": "Oh, I’m sorry, Oscar. I haven’t got any biscuits left.",
+   "zh": null,
+   "meta": false,
+   "sp": "Mrs Magnus",
+   "src": "audioscript",
+   "conf": 1.0
+  },
+  {
+   "i": 7,
+   "t": 30.64,
+   "t2": 33.36,
+   "en": "That’s OK. A piece of cake, please.",
+   "zh": null,
+   "meta": false,
+   "sp": "Oscar",
+   "src": "audioscript",
+   "conf": 1.0
+  },
+  {
+   "i": 8,
+   "t": 35.12,
+   "t2": 36.82,
+   "en": "And what fruit would you like?",
+   "zh": null,
+   "meta": false,
+   "sp": "Mrs Magnus",
+   "src": "audioscript",
+   "conf": 1.0
+  },
+  {
+   "i": 9,
+   "t": 37.66,
+   "t2": 38.84,
+   "en": "Have you got oranges?",
+   "zh": null,
+   "meta": false,
+   "sp": "Oscar",
+   "src": "audioscript",
+   "conf": 1.0
+  },
+  {
+   "i": 10,
+   "t": 39.62,
+   "t2": 40.58,
+   "en": "Yes, we have.",
+   "zh": null,
+   "meta": false,
+   "sp": "Mrs Magnus",
+   "src": "audioscript",
+   "conf": 1.0
+  },
+  {
+   "i": 11,
+   "t": 41.14,
+   "t2": 42.2,
+   "en": "An orange, please.",
+   "zh": null,
+   "meta": false,
+   "sp": "Oscar",
+   "src": "audioscript",
+   "conf": 1.0
+  },
+  {
+   "i": 12,
+   "t": 43.02,
+   "t2": 43.8,
+   "en": "And to drink?",
+   "zh": null,
+   "meta": false,
+   "sp": "Mrs Magnus",
+   "src": "audioscript",
+   "conf": 1.0
+  },
+  {
+   "i": 13,
+   "t": 44.62,
+   "t2": 45.7,
+   "en": "An apple juice.",
+   "zh": null,
+   "meta": false,
+   "sp": "Oscar",
+   "src": "audioscript",
+   "conf": 1.0
+  },
+  {
+   "i": 14,
+   "t": 46.3,
+   "t2": 50.52,
+   "en": "Sorry, Oscar. We’ve got orange juice or water.",
+   "zh": null,
+   "meta": false,
+   "sp": "Mrs Magnus",
+   "src": "audioscript",
+   "conf": 1.0
+  },
+  {
+   "i": 15,
+   "t": 51.26,
+   "t2": 54.16,
+   "en": "OK. Then I’d like an orange juice, please.",
+   "zh": null,
+   "meta": false,
+   "sp": "Oscar",
+   "src": "audioscript",
+   "conf": 1.0
+  },
+  {
+   "i": 16,
+   "t": 54.16,
+   "t2": 57.48,
+   "en": "OK, there you go, Oscar. Enjoy.",
+   "zh": null,
+   "meta": false,
+   "sp": "Mrs Magnus",
+   "src": "audioscript",
+   "conf": 1.0
+  },
+  {
+   "i": 17,
+   "t": 58.18,
+   "t2": 59.42,
+   "en": "Thanks, Mrs Magnus.",
+   "zh": null,
+   "meta": false,
+   "sp": "Oscar",
+   "src": "audioscript",
+   "conf": 1.0
+  }
+ ]
+}

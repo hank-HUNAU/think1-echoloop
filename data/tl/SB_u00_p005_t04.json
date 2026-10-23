@@ -1,0 +1,232 @@
+{
+ "key": "SB_u00_p005_t04",
+ "unit": 0,
+ "no": 4,
+ "title": "W.04",
+ "titleZh": null,
+ "audio": "audio/SB_u00_p005_t04.mp3",
+ "duration": 106.29,
+ "question": null,
+ "sentences": [
+  {
+   "i": 0,
+   "t": 9.76,
+   "t2": 12.852,
+   "en": "Abbey’s Taxis. Good morning. Can I help you?",
+   "zh": null,
+   "meta": false,
+   "sp": "Woman",
+   "src": "audioscript",
+   "conf": 1.0
+  },
+  {
+   "i": 1,
+   "t": 13.22,
+   "t2": 16.66,
+   "en": "Yes, I’d like a taxi please, to go to the airport.",
+   "zh": null,
+   "meta": false,
+   "sp": "Ahmed",
+   "src": "audioscript",
+   "conf": 1.0
+  },
+  {
+   "i": 2,
+   "t": 17.26,
+   "t2": 20.58,
+   "en": "OK, no problem. Is the taxi for now?",
+   "zh": null,
+   "meta": false,
+   "sp": "Woman",
+   "src": "audioscript",
+   "conf": 1.0
+  },
+  {
+   "i": 3,
+   "t": 21.14,
+   "t2": 24.44,
+   "en": "No – can I have the taxi at ten o’clock, please?",
+   "zh": null,
+   "meta": false,
+   "sp": "Ahmed",
+   "src": "audioscript",
+   "conf": 1.0
+  },
+  {
+   "i": 4,
+   "t": 24.44,
+   "t2": 29.56,
+   "en": "Ten am. Sure. Just to check – what time is your plane?",
+   "zh": null,
+   "meta": false,
+   "sp": "Woman",
+   "src": "audioscript",
+   "conf": 1.0
+  },
+  {
+   "i": 5,
+   "t": 30.02,
+   "t2": 31.42,
+   "en": "Oh, it’s at two o’clock.",
+   "zh": null,
+   "meta": false,
+   "sp": "Ahmed",
+   "src": "audioscript",
+   "conf": 1.0
+  },
+  {
+   "i": 6,
+   "t": 32.36,
+   "t2": 37.84,
+   "en": "Fine, so there’s lots of time. OK. And what’s your address, please?",
+   "zh": null,
+   "meta": false,
+   "sp": "Woman",
+   "src": "audioscript",
+   "conf": 1.0
+  },
+  {
+   "i": 7,
+   "t": 38.615,
+   "t2": 41.622,
+   "en": "It’s Lime Street – number 12.",
+   "zh": null,
+   "meta": false,
+   "sp": "Ahmed",
+   "src": "audioscript",
+   "conf": 1.0
+  },
+  {
+   "i": 8,
+   "t": 41.96,
+   "t2": 48.06,
+   "en": "Sorry? Lime Street? Lime – L-I-M-E?",
+   "zh": null,
+   "meta": false,
+   "sp": "Woman",
+   "src": "audioscript",
+   "conf": 1.0
+  },
+  {
+   "i": 9,
+   "t": 49.02,
+   "t2": 50.04,
+   "en": "Yes, that’s right.",
+   "zh": null,
+   "meta": false,
+   "sp": "Ahmed",
+   "src": "audioscript",
+   "conf": 1.0
+  },
+  {
+   "i": 10,
+   "t": 50.04,
+   "t2": 57.04,
+   "en": "OK. Twelve Lime Street. Good – and your name, please?",
+   "zh": null,
+   "meta": false,
+   "sp": "Woman",
+   "src": "audioscript",
+   "conf": 1.0
+  },
+  {
+   "i": 11,
+   "t": 57.7,
+   "t2": 59.64,
+   "en": "It’s Kaynarca, Ahmed.",
+   "zh": null,
+   "meta": false,
+   "sp": "Ahmed",
+   "src": "audioscript",
+   "conf": 1.0
+  },
+  {
+   "i": 12,
+   "t": 60.2,
+   "t2": 62.54,
+   "en": "Can you spell your surname, please?",
+   "zh": null,
+   "meta": false,
+   "sp": "Woman",
+   "src": "audioscript",
+   "conf": 1.0
+  },
+  {
+   "i": 13,
+   "t": 64.0,
+   "t2": 68.12,
+   "en": "K-A-Y-N-A-R-C-A, Kaynarca.",
+   "zh": null,
+   "meta": false,
+   "sp": "Ahmed",
+   "src": "audioscript",
+   "conf": 1.0
+  },
+  {
+   "i": 14,
+   "t": 71.52,
+   "t2": 85.46,
+   "en": "K-A-Y-N-A-R-C-A. OK, that’s great. So – a taxi to the airport, 10 o’clock, from 12 Lime Street.",
+   "zh": null,
+   "meta": false,
+   "sp": "Woman",
+   "src": "audioscript",
+   "conf": 1.0
+  },
+  {
+   "i": 15,
+   "t": 85.86,
+   "t2": 86.518,
+   "en": "Thank you.",
+   "zh": null,
+   "meta": false,
+   "sp": "Ahmed",
+   "src": "audioscript",
+   "conf": 1.0
+  },
+  {
+   "i": 16,
+   "t": 86.88,
+   "t2": 93.88,
+   "en": "Oh, sorry – how many people, please? I mean, how many passengers are going to the airport?",
+   "zh": null,
+   "meta": false,
+   "sp": "Woman",
+   "src": "audioscript",
+   "conf": 1.0
+  },
+  {
+   "i": 17,
+   "t": 94.5,
+   "t2": 98.48,
+   "en": "Oh, just me – only one passenger and one suitcase.",
+   "zh": null,
+   "meta": false,
+   "sp": "Ahmed",
+   "src": "audioscript",
+   "conf": 1.0
+  },
+  {
+   "i": 18,
+   "t": 99.18,
+   "t2": 102.14,
+   "en": "OK, that’s fine then. Thanks. Bye.",
+   "zh": null,
+   "meta": false,
+   "sp": "Woman",
+   "src": "audioscript",
+   "conf": 1.0
+  },
+  {
+   "i": 19,
+   "t": 102.68,
+   "t2": 103.02,
+   "en": "Bye.",
+   "zh": null,
+   "meta": false,
+   "sp": "Ahmed",
+   "src": "audioscript",
+   "conf": 1.0
+  }
+ ]
+}

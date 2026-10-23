@@ -1,0 +1,78 @@
+{
+ "key": "SB_u00_p008_t12",
+ "unit": 0,
+ "no": 12,
+ "title": "W.12",
+ "titleZh": null,
+ "audio": "audio/SB_u00_p008_t12.mp3",
+ "duration": 54.49,
+ "question": null,
+ "sentences": [
+  {
+   "i": 0,
+   "t": 3.92,
+   "t2": 9.62,
+   "en": "1 Mohamed Salah’s birthday is the 15th of June.",
+   "zh": null,
+   "meta": false,
+   "sp": null,
+   "src": "audioscript",
+   "conf": 1.0
+  },
+  {
+   "i": 1,
+   "t": 12.06,
+   "t2": 17.72,
+   "en": "2 Emma Watson’s birthday is the 15th of April.",
+   "zh": null,
+   "meta": false,
+   "sp": null,
+   "src": "audioscript",
+   "conf": 1.0
+  },
+  {
+   "i": 2,
+   "t": 20.22,
+   "t2": 26.42,
+   "en": "3 Oprah Winfrey’s birthday is the 29th of January.",
+   "zh": null,
+   "meta": false,
+   "sp": null,
+   "src": "audioscript",
+   "conf": 1.0
+  },
+  {
+   "i": 3,
+   "t": 28.26,
+   "t2": 33.74,
+   "en": "4 Adele’s birthday is the 5th of May.",
+   "zh": null,
+   "meta": false,
+   "sp": null,
+   "src": "audioscript",
+   "conf": 1.0
+  },
+  {
+   "i": 4,
+   "t": 35.88,
+   "t2": 42.46,
+   "en": "5 Daniel Kaluuya’s birthday is the 24th of February.",
+   "zh": null,
+   "meta": false,
+   "sp": null,
+   "src": "audioscript",
+   "conf": 1.0
+  },
+  {
+   "i": 5,
+   "t": 44.7,
+   "t2": 51.02,
+   "en": "6 Ed Sheeran’s birthday is the 17th of February.",
+   "zh": null,
+   "meta": false,
+   "sp": null,
+   "src": "audioscript",
+   "conf": 1.0
+  }
+ ]
+}

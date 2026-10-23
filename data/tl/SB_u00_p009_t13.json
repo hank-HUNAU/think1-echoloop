@@ -1,0 +1,144 @@
+{
+ "key": "SB_u00_p009_t13",
+ "unit": 0,
+ "no": 13,
+ "title": "W.13",
+ "titleZh": null,
+ "audio": "audio/SB_u00_p009_t13.mp3",
+ "duration": 65.07,
+ "question": null,
+ "sentences": [
+  {
+   "i": 0,
+   "t": 4.63,
+   "t2": 7.78,
+   "en": "I’m very busy from Monday to Friday.",
+   "zh": null,
+   "meta": false,
+   "sp": null,
+   "src": "audioscript",
+   "conf": 1.0
+  },
+  {
+   "i": 1,
+   "t": 8.64,
+   "t2": 13.94,
+   "en": "I always get up at ten to eight, that’s when my alarm clock rings.",
+   "zh": null,
+   "meta": false,
+   "sp": null,
+   "src": "audioscript",
+   "conf": 1.0
+  },
+  {
+   "i": 2,
+   "t": 14.84,
+   "t2": 20.06,
+   "en": "Then I go downstairs and have breakfast at eight o’clock.",
+   "zh": null,
+   "meta": false,
+   "sp": null,
+   "src": "audioscript",
+   "conf": 1.0
+  },
+  {
+   "i": 3,
+   "t": 21.02,
+   "t2": 22.7,
+   "en": "Then it’s school time.",
+   "zh": null,
+   "meta": false,
+   "sp": null,
+   "src": "audioscript",
+   "conf": 1.0
+  },
+  {
+   "i": 4,
+   "t": 23.66,
+   "t2": 27.92,
+   "en": "I leave the house to go to school at half past eight.",
+   "zh": null,
+   "meta": false,
+   "sp": null,
+   "src": "audioscript",
+   "conf": 1.0
+  },
+  {
+   "i": 5,
+   "t": 28.8,
+   "t2": 33.54,
+   "en": "There’s a break at twenty past ten – I eat an apple.",
+   "zh": null,
+   "meta": false,
+   "sp": null,
+   "src": "audioscript",
+   "conf": 1.0
+  },
+  {
+   "i": 6,
+   "t": 34.68,
+   "t2": 38.92,
+   "en": "At ten to one I have lunch in the school canteen.",
+   "zh": null,
+   "meta": false,
+   "sp": null,
+   "src": "audioscript",
+   "conf": 1.0
+  },
+  {
+   "i": 7,
+   "t": 39.72,
+   "t2": 41.62,
+   "en": "Then it’s back to lessons.",
+   "zh": null,
+   "meta": false,
+   "sp": null,
+   "src": "audioscript",
+   "conf": 1.0
+  },
+  {
+   "i": 8,
+   "t": 42.78,
+   "t2": 49.644,
+   "en": "I leave school at a quarter past three and I get home at half past three.",
+   "zh": null,
+   "meta": false,
+   "sp": null,
+   "src": "audioscript",
+   "conf": 1.0
+  },
+  {
+   "i": 9,
+   "t": 50.74,
+   "t2": 54.72,
+   "en": "At home, I do my homework and watch TV.",
+   "zh": null,
+   "meta": false,
+   "sp": null,
+   "src": "audioscript",
+   "conf": 1.0
+  },
+  {
+   "i": 10,
+   "t": 56.02,
+   "t2": 57.96,
+   "en": "At six o’clock I have dinner.",
+   "zh": null,
+   "meta": false,
+   "sp": null,
+   "src": "audioscript",
+   "conf": 1.0
+  },
+  {
+   "i": 11,
+   "t": 59.0,
+   "t2": 61.78,
+   "en": "I go to bed at half past ten.",
+   "zh": null,
+   "meta": false,
+   "sp": null,
+   "src": "audioscript",
+   "conf": 1.0
+  }
+ ]
+}
